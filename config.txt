@@ -1,0 +1,6 @@
+owner=364774965481832448
+prefix=SP
+game=play
+stayinchannel=true
+songinstatus=false
+token=NTY3MzkzMDk2MDY1ODc1OTkw.XTsK7A.szXjfu5mBhYwcbC7lu_8QW1udgk
